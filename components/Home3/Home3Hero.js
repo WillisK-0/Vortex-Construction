@@ -32,7 +32,7 @@ export default function Home3Hero() {
             }}
           >
             <source
-              src={require("public/video/landingVid.mp4")}
+              src={require("/public/video/landingVid.mp4")}
               type="video/mp4"
             />
           </video>
