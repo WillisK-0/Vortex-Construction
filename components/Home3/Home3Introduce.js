@@ -17,10 +17,10 @@ export default function Home3Introduce() {
             <span className="wing12"></span>
             <span className="wing21"></span>
             <span className="wing22"></span>
-            <span
+            {/* <span
               className="video lightbox"
               onClick={() => setIsOpen(true)}
-            ></span>
+            ></span> */}
             <div className="o_color"></div>
 
             <div className="content_holder">
@@ -55,7 +55,7 @@ export default function Home3Introduce() {
           </div>
         </div>
       </div>
-      <ModalVideo
+      {/* <ModalVideo
         channel="youtube"
         autoplay={true}
         isOpen={isOpen}
@@ -63,7 +63,7 @@ export default function Home3Introduce() {
         animationSpeed={300}
         onClose={() => setIsOpen(false)}
         modalVideoClose="mfp-close"
-      />
+      /> */}
     </>
   );
 }

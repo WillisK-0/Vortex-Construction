@@ -1,5 +1,11 @@
 import Link from "next/link";
-
+import {
+  Facebook,
+  Instagram,
+  Linkedin,
+  Twitter,
+  Vk,
+} from "../public/svg/social/IconSocial";
 export default function Footer() {
   return (
     <>
@@ -89,7 +95,38 @@ export default function Footer() {
                         <span>Contact Us</span>
                       </div>
                       <p style={{ margin: "0px" }}>Phone: 832-899-5970</p>
-                      <p>Email: Stone@vortexconstructiontx.com</p>
+                      <p style={{ margin: "0px" }}>
+                        Email: Stone@VortexConstructionTx.com
+                      </p>
+                    </div>
+                    <div className="industify_fn_social_list">
+                      <ul>
+                        <li>
+                          <Link
+                            href="https://www.facebook.com/vortexconstruction/"
+                            target="_blank"
+                            rel="noreferrer"
+                          >
+                            <Facebook className="fn__svg" />
+                          </Link>
+                        </li>
+
+                        <li>
+                          <Link
+                            href="https://www.instagram.com/vortex.construction/"
+                            target="_blank"
+                            rel="noreferrer"
+                          >
+                            <Instagram className="fn__svg" />
+                          </Link>
+                        </li>
+
+                        {/* <li>
+                  <Link href="#" target="_blank" rel="noreferrer">
+                    <Linkedin className="fn__svg" />
+                  </Link>
+                </li> */}
+                      </ul>
                     </div>
                   </li>
                 </ul>

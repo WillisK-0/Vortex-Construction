@@ -29,23 +29,31 @@ export default function DesktopHeader() {
         <div className="industify_fn_toppanel">
           <div className="left_panel">
             <div className="info">
-              <Link href="tel:07787744741">832-899-5970</Link>
+              <Link href="tel:8328995970">832-899-5970</Link>
             </div>
             <div className="info">
-              <Link href="mailto:rendycoder.com@gmail.com">
-                Stone@vortexconstructiontx.com
+              <Link href="mailto:Stone@vortexconstructiontx.com">
+                Stone@VortexConstructionTx.com
               </Link>
             </div>
             <div className="industify_fn_social_list">
               <ul>
                 <li>
-                  <Link href="#" target="_blank" rel="noreferrer">
+                  <Link
+                    href="https://www.facebook.com/vortexconstruction/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     <Facebook className="fn__svg" />
                   </Link>
                 </li>
 
                 <li>
-                  <Link href="#" target="_blank" rel="noreferrer">
+                  <Link
+                    href="https://www.instagram.com/vortex.construction/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     <Instagram className="fn__svg" />
                   </Link>
                 </li>
@@ -81,20 +89,6 @@ export default function DesktopHeader() {
             <ul className="industify_fn_main_nav vert_nav">
               <li className="menu-item">
                 <Link href="/">Home</Link>
-                {/* <ul className="sub-menu">
-                  <li>
-                    <Link href="/">Home Alpha</Link>
-                  </li>
-                  <li>
-                    <Link href="/home2">Home Beta</Link>
-                  </li>
-                  <li>
-                    <Link href="/home3">Home Gamma</Link>
-                  </li>
-                  <li>
-                    <Link href="/home4">Home Delta</Link>
-                  </li>
-                </ul> */}
               </li>
               <li className="menu-item">
                 <Link href="/services">About Us</Link>
@@ -103,32 +97,6 @@ export default function DesktopHeader() {
                 <Link href="/gallery">Gallery</Link>
               </li>
 
-              {/* <li className="menu-item-has-children">
-                <Link href="#">Pages</Link>
-                <ul className="sub-menu">
-                  <li>
-                    <Link href="/gallery">Gallery</Link>
-                  </li>
-                  <li>
-                    <Link href="/404">404 Page</Link>
-                  </li>
-                  <li>
-                    <Link href="/principles">Our Principles</Link>
-                  </li>
-                  <li>
-                    <Link href="/services">Our Services</Link>
-                  </li>
-                  <li>
-                    <Link href="blog/blogFullPage">Blog Full</Link>
-                  </li>
-                  <li>
-                    <Link href="/protected">Protected Page</Link>
-                  </li>
-                </ul>
-              </li> */}
-              {/* <li>
-                <Link href="/blog">Blog</Link>
-              </li> */}
               <li>
                 <Link href="/contact">Contact</Link>
               </li>

@@ -76,7 +76,7 @@ export default function Home3Hero() {
             alt="Industry HTML Template"
           /> */}
       </div>
-      <ModalVideo
+      {/* <ModalVideo
         channel="youtube"
         autoplay={true}
         isOpen={isOpen}
@@ -84,7 +84,7 @@ export default function Home3Hero() {
         animationSpeed={300}
         onClose={() => setIsOpen(false)}
         modalVideoClose="mfp-close"
-      />
+      /> */}
     </>
   );
 }
