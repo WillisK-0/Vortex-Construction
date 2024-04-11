@@ -5,7 +5,28 @@ import Home3Principle from "@/components/Home3/Home3Principle";
 import Layout from "@/layouts/layout";
 
 export const metadata = {
-  title: "Vortex Construction",
+  title:
+    "Vortex Construction | Top Concrete Contractor in Houston, Texas | Residential & Commercial Services",
+  description:
+    "Vortex Construction is the premier concrete contractor in Houston, Texas, offering expert residential and commercial concrete services. Contact us for quality concrete solutions!",
+  keywords:
+    "concrete contractor Houston Texas, residential concrete services, commercial concrete services, Houston concrete company, concrete contractor near me, Houston TX, concrete, construction services houston, ",
+  author: "Vortex Construction",
+  url: "https://www.vortexconstructionhouston.com",
+  image:
+    "https://www.vortexconstructionhouston.com/images/concrete-services-houston.jpg",
+  siteName: "Vortex Construction",
+  type: "website",
+  locale: "en_US",
+  twitterUsername: "@vortexconstruct",
+  facebookAppId: "1234567890",
+  ogTitle: "Vortex Construction | Top Concrete Contractor in Houston, Texas",
+  ogDescription:
+    "Vortex Construction is the premier concrete contractor in Houston, Texas, offering expert residential and commercial concrete services. Contact us for quality concrete solutions!",
+  ogType: "website",
+  ogImage:
+    "https://www.vortexconstructionhouston.com/images/concrete-services-houston.jpg",
+  ogUrl: "https://www.vortexconstructionhouston.com",
 };
 
 export default function page() {
