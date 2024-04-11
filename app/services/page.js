@@ -27,16 +27,16 @@ export default function page() {
                     past 9 years. Now headquartered in Richmond, Texas, and
                     serving the entire Greater Houston area, we have become the
                     premier provider of turnkey concrete services in Houston. If
-                    you're tired of unfulfilled promises and missed deadlines,
-                    Vortex Construction is here to provide you with a dedicated
-                    team that ensures deadlines are not only met but exceeded
-                    with the highest quality in the industry. With extensive
-                    experience in home building prior to specializing in turnkey
-                    concrete, we understand what home builders are looking for
-                    and deliver work efficiently, setting industry-leading
-                    standards for both timeframe and quality. Choose Vortex
-                    Construction for reliable, top-notch concrete solutions
-                    tailored to meet your needs.
+                    you're tired of unfulfilled promises and missed
+                    deadlines, Vortex Construction is here to provide you with a
+                    dedicated team that ensures deadlines are not only met but
+                    exceeded with the highest quality in the industry. With
+                    extensive experience in home building prior to specializing
+                    in turnkey concrete, we understand what home builders are
+                    looking for and deliver work efficiently, setting
+                    industry-leading standards for both timeframe and quality.
+                    Choose Vortex Construction for reliable, top-notch concrete
+                    solutions tailored to meet your needs.
                   </p>
                 </div>
                 {/* <div className="sign_holder">
