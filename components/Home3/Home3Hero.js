@@ -31,10 +31,7 @@ export default function Home3Hero() {
               objectFit: "cover",
             }}
           >
-            <source
-              src={require("/public/video/landingVid.mp4")}
-              type="video/mp4"
-            />
+            <source src={require("/video/landingVid.mp4")} type="video/mp4" />
           </video>
           <div
             className="container"
