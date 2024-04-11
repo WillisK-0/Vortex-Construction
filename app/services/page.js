@@ -27,7 +27,7 @@ export default function page() {
                     past 9 years. Now headquartered in Richmond, Texas, and
                     serving the entire Greater Houston area, we have become the
                     premier provider of turnkey concrete services in Houston. If
-                    you're tired of unfulfilled promises and missed
+                    you&apos;re tired of unfulfilled promises and missed
                     deadlines, Vortex Construction is here to provide you with a
                     dedicated team that ensures deadlines are not only met but
                     exceeded with the highest quality in the industry. With
