@@ -1,84 +1,84 @@
 export const photos = [
   {
-    src: "/img/DJI_0110.jpg",
+    src: "/img/DJI_00110.jpg",
     width: "32",
     height: "155px",
   },
   {
-    src: "/img/DJI_0199.jpg",
+    src: "/img/DJI_00199.jpg",
     width: "32",
     height: "155px",
   },
   {
-    src: "/img/DJI_0111.jpg",
-    width: "32",
-    height: "155px",
-  },
-
-  {
-    src: "/img/DJI_0156.jpg",
-    width: "32",
-    height: "155px",
-  },
-  {
-    src: "/img/DJI_0159.jpg",
-    width: "32",
-    height: "155px",
-  },
-  {
-    src: "/img/DJI_0161.jpg",
-    width: "32",
-    height: "155px",
-  },
-  {
-    src: "/img/DJI_0174.jpg",
+    src: "/img/DJI_00111.jpg",
     width: "32",
     height: "155px",
   },
 
   {
-    src: "/img/DJI_0196.jpg",
+    src: "/img/DJI_00156.jpg",
     width: "32",
     height: "155px",
   },
   {
-    src: "/img/DJI_0230.jpg",
+    src: "/img/DJI_00159.jpg",
     width: "32",
     height: "155px",
   },
   {
-    src: "/img/DJI_0197.jpg",
+    src: "/img/DJI_00161.jpg",
     width: "32",
     height: "155px",
   },
   {
-    src: "/img/DJI_0198.jpg",
+    src: "/img/DJI_00174.jpg",
     width: "32",
     height: "155px",
   },
 
   {
-    src: "/img/DJI_0243.jpg",
+    src: "/img/DJI_00196.jpg",
     width: "32",
     height: "155px",
   },
   {
-    src: "/img/DJI_0217.jpg",
+    src: "/img/DJI_00230.jpg",
     width: "32",
     height: "155px",
   },
   {
-    src: "/img/DJI_0228.jpg",
+    src: "/img/DJI_00197.jpg",
     width: "32",
     height: "155px",
   },
   {
-    src: "/img/DJI_0146.jpg",
+    src: "/img/DJI_00198.jpg",
+    width: "32",
+    height: "155px",
+  },
+
+  {
+    src: "/img/DJI_00243.jpg",
     width: "32",
     height: "155px",
   },
   {
-    src: "/img/DJI_0232.jpg",
+    src: "/img/DJI_00217.jpg",
+    width: "32",
+    height: "155px",
+  },
+  {
+    src: "/img/DJI_00228.jpg",
+    width: "32",
+    height: "155px",
+  },
+  {
+    src: "/img/DJI_00146.jpg",
+    width: "32",
+    height: "155px",
+  },
+  {
+    src: "/img/DJI_00232.jpg",
     width: "32",
     height: "155px",
   },

@@ -1,9 +1,9 @@
 import Link from "next/link";
 
 const blog_bg = "img/blog/map.png";
-const blog_bg1 = "img/DJI_0159.jpg";
-const blog_bg2 = "img/DJI_0199.jpg";
-const blog_bg3 = "img/DJI_0155.jpg";
+const blog_bg1 = "img/DJI_00159.jpg";
+const blog_bg2 = "img/DJI_00199.jpg";
+const blog_bg3 = "img/DJI_00155.jpg";
 
 export default function Home3Blog() {
   return (
@@ -35,7 +35,7 @@ export default function Home3Blog() {
                       className="img_holder"
                       style={{ backgroundImage: `url(${blog_bg1})` }}
                     >
-                      <img src="img/DJI_0146.jpg" alt="" />
+                      <img src="img/DJI_00146.jpg" alt="" />
                     </div>
                   </div>
                 </li>
@@ -45,7 +45,7 @@ export default function Home3Blog() {
                       className="img_holder"
                       style={{ backgroundImage: `url(${blog_bg2})` }}
                     >
-                      <img src="img/DJI_0149.jpg" alt="" />
+                      <img src="img/DJI_00149.jpg" alt="" />
                     </div>
                   </div>
                 </li>
@@ -55,7 +55,7 @@ export default function Home3Blog() {
                       className="img_holder"
                       style={{ backgroundImage: `url(${blog_bg3})` }}
                     >
-                      <img src="img/DJI_0155.jpg" alt="" />
+                      <img src="img/DJI_00155.jpg" alt="" />
                     </div>
                   </div>
                 </li>
