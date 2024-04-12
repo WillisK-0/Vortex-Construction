@@ -17,25 +17,21 @@ export default function Home3Hero() {
             overflow: "hidden",
           }}
         >
-          <video
-            autoPlay
-            muted
-            loop
-            id="bg-video"
+          <iframe
             style={{
               position: "absolute",
-              top: 0,
-              left: 0,
+              top: "0",
+              left: "0",
               width: "100%",
               height: "100%",
-              objectFit: "cover",
             }}
-          >
-            <source
-              src={require("public/video/landingVid.mp4")}
-              type="video/mp4"
-            />
-          </video>
+            width="100%"
+            height="100%"
+            src="https://player.vimeo.com/video/933918789?autoplay=1&loop=1&autopause=0&muted=1&title=0&controls=0"
+            frameBorder="0"
+            allow="autoplay; fullscreen"
+          ></iframe>
+
           <div
             className="container"
             style={{
