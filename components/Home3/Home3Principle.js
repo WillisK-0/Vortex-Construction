@@ -23,7 +23,7 @@ export default function Home3Principle() {
                       from the rest.
                     </p>
                   </div>
-                  <div class="number_holder">01</div>
+                  {/* <div class="number_holder">01</div> */}
                 </div>
               </div>
             </div>
