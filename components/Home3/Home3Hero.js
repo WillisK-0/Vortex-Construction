@@ -8,14 +8,7 @@ export default function Home3Hero() {
   const [isOpen, setIsOpen] = useState(false);
   return (
     <>
-      <div
-        style={{
-          position: "relative",
-          width: "100%",
-          height: "800px",
-          overflow: "hidden",
-        }}
-      >
+      <div className="video-wrapper">
         <iframe
           style={{
             position: "absolute",
