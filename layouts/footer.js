@@ -42,9 +42,12 @@ export default function Footer() {
                 <ul className="widget_area">
                   <li>
                     <div className="item">
-                      <div className="logo">
+                      <div className="footer-logo">
                         <Link href="/">
-                          <div style={{ width: "200px" }}>
+                          <div
+                            style={{ width: "200px" }}
+                            className="footer-logo"
+                          >
                             <img src="/img/vortex-logo-white.png" alt="" />
                           </div>
                         </Link>
