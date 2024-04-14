@@ -9794,7 +9794,7 @@ blockquote {
 .fn_cs_gallery_grid ul li .item:hover .abs_img {
   transform: scale(1.2) translateZ(0);
 }
-.fn_cs_gallery_grid[data-cols="3"] ul li {
+.fn_cs_gallery_grid[data-cols="3"] ul li img{
   width: 33.3333%;
 }
 .fn_cs_gallery_grid[data-cols="2"] ul li {
@@ -9804,16 +9804,16 @@ blockquote {
   width: 100%;
 }
 @media (max-width: 1040px) {
-  .fn_cs_gallery_grid[data-cols="3"] ul li,
-  .fn_cs_gallery_grid[data-cols="2"] ul li,
-  .fn_cs_gallery_grid[data-cols="4"] ul li {
+  .fn_cs_gallery_grid[data-cols="3"] ul li img,
+  .fn_cs_gallery_grid[data-cols="2"] ul li img,
+  .fn_cs_gallery_grid[data-cols="4"] ul li img {
     width: 50%;
   }
 }
 @media (max-width: 768px) {
-  .fn_cs_gallery_grid[data-cols="3"] ul li,
-  .fn_cs_gallery_grid[data-cols="2"] ul li,
-  .fn_cs_gallery_grid[data-cols="4"] ul li {
+  .fn_cs_gallery_grid[data-cols="3"] ul li img,
+  .fn_cs_gallery_grid[data-cols="2"] ul li img,
+  .fn_cs_gallery_grid[data-cols="4"] ul li img {
     width: 100%;
   }
 }

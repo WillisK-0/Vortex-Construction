@@ -32,13 +32,7 @@ export default function Gallery() {
                     className="abs_img"
                     style={{ backgroundImage: `url(${data.src})` }}
                   />
-                  <Image
-                    src={data.src}
-                    width="200"
-                    height="200"
-                    style={{ maxHeight: "155px" }}
-                    alt=""
-                  />
+                  <img src={data.src} style={{ maxHeight: "155px" }} alt="" />
                 </div>
               </li>
             ))}
