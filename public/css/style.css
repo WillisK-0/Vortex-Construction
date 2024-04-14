@@ -124,6 +124,7 @@ h5 > a:hover,
 h6 > a:hover {
   color: #316397;
 }
+
 input {
   font-family: var(--Rubik);
 }
@@ -2298,6 +2299,12 @@ a:focus {
     padding: 24px 20px 16px 20px;
   }
 }
+
+@media (max-width: 600px) {
+  .menu_logo {
+    display: none;
+  }
+}
 /*------------------------------------------------------------------*/
 /*	15) 404 PAGE
 /*------------------------------------------------------------------*/
@@ -4295,6 +4302,13 @@ blockquote {
     bottom: 38px;
   }
 }
+
+@media (min-width: 1041px) {
+  .title_holder_logo {
+    margin-top: 125px;
+  }
+}
+
 /*------------------------------------------------------------------*/
 /*	Shortcode #3 About
 /*------------------------------------------------------------------*/
@@ -7574,7 +7588,7 @@ blockquote {
   clear: both;
   position: relative;
   padding: 40px 0px;
-  margin-top: -400px;
+  margin-top: -150px;
 }
 .fn_cs_introduce_wrap[data-url-show="no"] span.video {
   display: none;
