@@ -13,11 +13,11 @@ export default function Home3Principle() {
                 <div className="item">
                   <div class="title_holder">
                     <h3>Our Guiding Principles</h3>
-                    <p>
+                    <p style={{ textAlign: "center" }}>
                       Discover the cornerstone principles that define our
                       exceptional concrete services:
                     </p>
-                    <p>
+                    <p style={{ textAlign: "center" }}>
                       When you choose us, you can expect excellence in every
                       aspect of your project. Let us show you why we stand out
                       from the rest.
