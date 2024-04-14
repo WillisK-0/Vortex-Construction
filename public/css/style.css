@@ -564,7 +564,7 @@ a:focus {
   float: left;
   clear: both;
   border-bottom: 1px solid #eee;
-  z-index: 200;
+  z-index: 200000;
 }
 .industify_fn_header .header_inner {
   width: 100%;
