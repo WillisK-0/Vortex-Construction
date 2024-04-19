@@ -30,6 +30,7 @@ export const metadata = {
     template: "Vortex Construction",
     default: "Vortex Construction",
   },
+  url: "vortexconcrete.com",
 };
 
 export default function RootLayout({ children }) {
